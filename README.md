@@ -1,10 +1,10 @@
 # XR-Course
 
-![Contributors](https://img.shields.io/github/contributors/larymak/Python-project-Scripts?style=plastic)
-![Forks](https://img.shields.io/github/forks/larymak/Python-project-Scripts)
-![Stars](https://img.shields.io/github/stars/larymak/Python-project-Scripts)
-![Licence](https://img.shields.io/github/license/larymak/Python-project-Scripts)
-![Issues](https://img.shields.io/github/issues/larymak/Python-project-Scripts)
+![Contributors](https://img.shields.io/github/contributors/summitgames/XR-Course?style=plastic)
+![Forks](https://img.shields.io/github/forks/summitgames/XR-Course)
+![Stars](https://img.shields.io/github/stars/summitgames/XR-Course)
+![Licence](https://img.shields.io/github/license/summitgames/XR-Course)
+![Issues](https://img.shields.io/github/issues/summitgames/XR-Course)
 [![Build Status](https://github.com/github/opensource.guide/workflows/GitHub%20Actions%20CI/badge.svg)](https://github.com/github/opensource.guide/actions)
 
 ## Extended Reality Professional University Course Structure, Hackathon | Workshops and Industry Guide 
