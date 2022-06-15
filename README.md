@@ -12,7 +12,7 @@
 <table>
 <tr>
 <td>
-  This platform is carefully designed to introduce a course syllabus on subjects like AR, VR, Computer Vision, Computer Graphics, AI and Machine Learning for educational institutions. The information is available for students, proffessors, eduactional institues, Universities, Online Courses and technology enthusiasts in the XR Industry.
+  This platform is carefully designed and curated by XR Industry Professionals and Emerging Technology Pioneers to introduce a course syllabus and learning resources, materials on subjects like AR, VR for educational institutions. The information is available for students, proffessors, trainers, educational institutes, Universities, Online Courses, Youtube Channels and technology enthusiasts in the XR Industry.
 </td>
 </tr>
 </table>
@@ -20,23 +20,18 @@
 
 ## Table of Contents
 * [Introduction](#introduction)
-* [Purpose](#purpose)
-
+* [Purpose | AIM | Goal](#purpose-|-aim-|-goal)
 
 
 ## Introduction
 
-The contributors of the project looks forward to create a centralised open source robust eco-system for the Educational Institues, Training Centres, Enterprise and Startups.
+- The contributors of this project looks forward to create a centralised open source robust XR eco-system for the Educational Institues, Training Centres, Enterprises and Startups.
 
+- This course is designed for universities who are adopting XR technology and front-end technologies in thier curriculum and offering masters or graduate programme.
 
-The project is carefully designed to create a common platform and introduce a course syllabus on subjects like AR, VR, Computer Vision, Computer Graphics, AI and Machine Learning for educational institutions. The information is available for all edeucational institurrtions for students, proffessors, and technology enthusiasts in the XR Industry.
+- The course also bookmarks all the available online courses on udemy, Books, Youtube channels and other educational web portals that are related to the AR | VR - XR Industry.
 
-This course is designed for universities who are adopting XR technology and front-end technologies in thier curriculum and offering masters or graduate programme.
-
-The course also bookmarks all the available online courses on udemy, Youtube and other educational web portals that are related to the AR | VR - XR Industry.
-
-There is a lot of hidden treasure lying within university pages scattered across the internet. This list is an attempt to bring to light those awesome courses which make their high-quality material including i.e. workshop, AR-VR Lab, assignments, lectures, notes, readings & examinations available online for free.
-
+- There is a lot of hidden treasure lying across pages scattered across the internet. This list is an attempt to bring to light those awesome courses, materials which make their high-quality material including i.e. workshop, AR-VR Lab, assignments, lectures, notes, readings & examinations available online for free.
 
 
 ## Purpose | AIM | Goal
@@ -72,7 +67,41 @@ Naturally, as requirements in the industry, fast-growth and future potential of 
 
 - Get Started 
 
-- Setting up an AR-VR Lab
+- History & Emerging Technologies Storyline.
+
+- Draft AR-VR Course
+
+* - Universities
+
+* - Online Courses
+
+* - Training Centres
+
+- Setting up AR-VR Lab
+
+- Organising Workshop Materials
+
+- Technologies Associated for Development
+
+* - Hardware
+
+* - Software
+
+- Enterprises Associated with XR
+
+- Active Players and Pioneers in the Industry
+
+- Patents filed in the XR Industry
+
+- Global XR Events
+
+- Community Building and Platform
+
+- Important PR and Marketing & Current Blogs | Articles for XR
+
+- Open Source Projects (where you can  contribute on XR)
+
+- XR Innovative Use-cases and Industry Adoption
 
 
 
