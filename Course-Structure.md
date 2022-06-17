@@ -2,7 +2,22 @@
 
 ## Extended Reality Professional University Course Structure, Hackathon | Workshops and Industry Guide.
 
+
+### Background
+
+* Several AR and VR tools as SDK, software development engines and technological stack formed XR as an eco-system which was highly distributed and didn't have a centralised learning course or process and platform for advanced learning in this subject. Therefore, it was a immediate need for many educational institutions to structure/form a specially designed course where formal training, learning and certifications could be given to students.
+
+* The emerging technologies were certain to create a huge pool of requirements and support the eco-system. As adoptation of XR technology in enterprises and consumer eco-system were fast penetrating and many innovative business solutions were focusing on XR Technology. Training and Educational Institues looked forward for exprertise and guidance from industry professionals, pioneers who could support and draft/formalise such a XR platform who could bridge a base model for XR entusiasts to advance in the industry.
+
+* The educational institues are looking forward to offer students in graduate/masters programme as a specially designed course-subject to enroll and form as a their career.
+
+* Naturally, as requirements in the industry, fast-growth and future potential of emerging technologies created a huge demand for skilled workforce to cater the advancements of technology, The educational institues are prepped and ready to set-up the foundation to offer such programmes.
+
+* Our course is designed for in context skillsets with programnming, design(artists) and management as primary divisions who are adopting XR technology and other front-end technologies in thier curriculum, industrial training and offering masters or graduate programme for the Educational Institues, Training Centres, Enterprises and Startups.
+
 ### Course Structure
+
+**This course is designed for software engineering students who have selected 'Computer Science' subject as their major**
 
 The most recent and updated document is [here](./Course-Docs/AR-VR-SYLABUS-V-1.0.odt)
 

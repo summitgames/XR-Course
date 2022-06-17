@@ -98,6 +98,9 @@ In order for you to perform this step, you must have Git installed locally in yo
 
 Further details will be added to this document.
 
+## License
+By contributing, you agree that your contributions will be licensed under its GNU GPL License.
+
 
 Thanks you.
 
