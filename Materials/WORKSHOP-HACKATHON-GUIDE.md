@@ -6,6 +6,13 @@
 1. XR terminologies and AR | VR and MR.
 
 
+* - History & Emerging Technologies Storyline.
+
+* - What is AR and supportive technologies
+
+* - What is VR and supportive technologies
+
+
 2. Similarity and Differences.
 
 3. Hardware that are deployed for XR (Mobile for AR | HMD for VR and Optical see through HMD for MR).
