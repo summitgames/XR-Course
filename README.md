@@ -74,7 +74,7 @@
 
 - Setting up AR-VR Lab
 
-- Organising Workshop
+- Organising Workshop & Hackathons
 
 - Educational E-Books & Other Study Material
 
@@ -90,6 +90,16 @@
 
 - Community Building (Active Players and Pioneers)
 
+    - Individuals
+    
+
+    - Groups
+    * - Discord Channels
+    * - LinkedIn Groups
+    * - Telegram Channel
+    * - Whatsapp Groups
+    * - 
+
 - Startups in this Industry (country wise listing)
 
 - Others
@@ -99,6 +109,7 @@
 
 **"The XR Technology is evolved with underlying software and hardware tech stacks such as Computer Graphics, Computer Vision. Below are a list of all the divisions that form as a whole in XR Technology."**
 
+> The evolution of XR as Extended Reality comprising of AR, MR and VR, integrated tech stacks, software and content development platforms, integrated with the hardware components and technologies. Below we provide complete list of each tool, SDK, development engine and platforms, technologies associated as a whole in XR.
 
 > The Software suites such as Unity, Unreal were the base software platform to create VR Experiences. The SDK Tools such as Oculus, VIVE, Open XR and Web VR for VR and Qualcomm's Vuforia, Google's ArCore, Apple's ARKit, Google Tango, OpenCV, Unity ARFoundation software framework formed as an eco-system. There are 1000's of patents evolving in the XR Industry in the last few years and businesses are looking to adopt XR technology for the future.
 
@@ -137,9 +148,11 @@
 
 * - Content Creation Platforms
 
-* - Industry Players
+    - Sketchfab
+    - Quixel
+    - 
 
-- Technologies Associated for Development
+* - Technologies Associated for Development
 
 * - Hardware Tools
 
@@ -151,7 +164,7 @@
 
 ## XR Hub
 
-**"We are still working on this section."**
+**"We are still working on this section. We are looking forward to update each section and create a complete database in the XR eco-system."**
 
 ### Project Status & Modifications
 
@@ -187,7 +200,9 @@
 
 - Technical Assesments (Examinations)
 
-- Industry Insights
+- Industry Insights (Newsletters)
+
+  * Inside XR
 
 
 
